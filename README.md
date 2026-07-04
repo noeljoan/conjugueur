@@ -13,7 +13,7 @@
 
 ### 🚀 Schnellstart (Windows EXE)
 
-1. Unter **[Releases](../../releases)** die Datei `conjugueur.exe` herunterladen
+1. Unter **[Releases](../../releases)** die Datei `conjugueur.zip` herunterladen
 2. Doppelklick — fertig, keine Installation nötig
 
 ## ✨ Présentation
