@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/statut-actif-success)
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Capture d'écran de Le Conjugueur" width="720">
+  <img src="screenshot.png" alt="Capture d'écran de Le Conjugueur" width="720">
 </p>
 
 ## ✨ Présentation
