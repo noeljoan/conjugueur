@@ -11,6 +11,11 @@
   <img src="screenshot.png" alt="Capture d'écran de Le Conjugueur" width="720">
 </p>
 
+### Schnellstart (Windows EXE)
+
+1. Unter **[Releases](../../releases)** die Datei `conjugueur.exe` herunterladen
+2. Doppelklick — fertig, keine Installation nötig
+
 ## ✨ Présentation
 
 **Le Conjugueur** conjugue n'importe quel verbe français — régulier ou irrégulier — sur 8 temps et modes, instantanément et entièrement hors-ligne. Tapez un verbe, appuyez sur Entrée, et obtenez un tableau de conjugaison complet et grammaticalement correct, avec autocomplétion, participes, détection du groupe, et gestion fine des élisions (*j'ai*, *j'irai*…).
