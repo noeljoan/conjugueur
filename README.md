@@ -11,7 +11,7 @@
   <img src="screenshot.png" alt="Capture d'écran de Le Conjugueur" width="720">
 </p>
 
-### Schnellstart (Windows EXE)
+### 🚀 Schnellstart (Windows EXE)
 
 1. Unter **[Releases](../../releases)** die Datei `conjugueur.exe` herunterladen
 2. Doppelklick — fertig, keine Installation nötig
