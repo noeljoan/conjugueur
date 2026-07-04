@@ -11,10 +11,10 @@
   <img src="screenshot.png" alt="Capture d'écran de Le Conjugueur" width="720">
 </p>
 
-### 🚀 Schnellstart (Windows EXE)
+### 🚀  Démarrage rapide (fichier EXE Windows)
 
-1. Unter **[Releases](../../releases)** die Datei `conjugueur.zip` herunterladen
-2. Doppelklick — fertig, keine Installation nötig
+1. Téléchargez le fichier conjugueur.zip dans la rubrique **[Releases](../../releases)** 
+2. Double-cliquez dessus — c'est tout, aucune installation n'est nécessaire
 
 ## ✨ Présentation
 
